@@ -1,3 +1,3 @@
 # leetcode
-Q1 brute force/hashMap /n
+Q1 brute force/hashMap <br />
 Q2
