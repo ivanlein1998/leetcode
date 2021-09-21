@@ -16,3 +16,4 @@ class Solution {
         }
     }
 }
+//by recursive method
